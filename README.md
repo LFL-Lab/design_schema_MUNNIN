@@ -1,7 +1,7 @@
 
-## MUNNIN Device
+## MUNINN Device
 
-This is the documentation for the MUNNIN device from the Levenson-Falk Lab at USC. 
+This is the documentation for the MUNINN device from the Levenson-Falk Lab at USC. MUNINN is a three-qubit processor designed to probe non-Markovian dynamics of an entangled qubit pair. 
 
 ## Measured Results
 
